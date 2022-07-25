@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 title: Applied-Linguistics-Instruments
-linktitle: A repo for tools, scales, and instruments
+linktitle: Applied Linguistics Instruments
 summary: A comprehnesive site for tools, scales, and instruments used in applied linsgusitic research.
 weight: 1
 # icon: book
