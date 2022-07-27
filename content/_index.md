@@ -1,5 +1,4 @@
 ---
-title: Introduction
 linktitle: Introduction
 type: book # Do not modify.
 toc: false
