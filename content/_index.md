@@ -1,7 +1,8 @@
 ---
+title: Introduction
 linktitle: Introduction
 type: book # Do not modify.
-toc: false
+toc: true
 
 cover:
   image: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
